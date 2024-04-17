@@ -1,0 +1,21 @@
+QUESTÃO 1
+Branch é uma linha indepedento no repositório . 
+Cado branch possui seu conjunto de alterações, o que permite que você faça qualquer alteração ou correção sem mexer no código principal.
+A difernça é que a branch local é quando  acontece no seu próprio PC e remoto quendo é executida no repositório de outro pessoa, ou seja no Github.
+
+QUESTÃO 3
+
+Identifique o conflito após tentar um merge.
+Abra o arquivo conflitante.
+Entenda as diferenças e edite o arquivo para resolver conflitos.
+Remova os marcadores de conflito.
+Adicione as alterações ao stage com git add.
+Finalize o merge com git merge --continue ou git commit.
+Teste e revise as alterações.
+Confirme o merge com git commit.
+Se necessário, envie as alterações para o repositório remoto com git push.
+
+
+
+
+
